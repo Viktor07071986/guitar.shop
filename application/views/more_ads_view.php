@@ -1,0 +1,1 @@
+<?php foreach($data as $ad) require "all_ads_view.php"; ?>
